@@ -1,3 +1,9 @@
+plymouth (24.004.60-2deepin5) unstable; urgency=medium
+
+  * fix: Logo not centered when multiple monitors are used.
+
+ -- xinpeng.wang <wangxinpeng@uniontech.com>  Fri, 12 Dec 2025 14:57:15 +0800
+
 plymouth (24.004.60-2deepin4) unstable; urgency=medium
 
   * fix: cann't display logo when boot.
